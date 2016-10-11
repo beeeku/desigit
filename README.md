@@ -2,9 +2,13 @@
 Git command alternative for Desi People
 
 # Installation
-cd Directory
-npm install 
-npm link
+  cd Directory /n 
+  npm install desigit
+  npm install /n
+  npm link /n
+  
+
+
 
   Usage: desigit [options] [command]
 
