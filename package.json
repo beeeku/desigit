@@ -20,5 +20,9 @@
     "chalk": "^1.1.3",
     "child_process": "^1.0.2",
     "commander": "^2.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com:beeeku/desigit.git"
   }
 }
