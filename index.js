@@ -144,7 +144,7 @@ program
     .option('--hard', 'dardank reset kardein')
     .action(reset);
 program
-    .command('kar diya "[message]"')
+    .command('pakka "[message]"')
     .action(commit);
 program
     .command('daalo [file]')
@@ -157,3 +157,4 @@ program.parse(process.argv);
 
 // if program was called with no arguments, show help.
 if (program.args.length === 0) program.help();
+
