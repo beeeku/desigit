@@ -1,4 +1,6 @@
 # desigit
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/beeeku/desigit.svg)](https://greenkeeper.io/)
 Git command alternative for Desi People
 
 # Installation
